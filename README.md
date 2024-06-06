@@ -10,7 +10,7 @@
 
 ### 怎么获得cookies？
 
-按 `F12` 打开开发者工具，获取cookies。
+按 F12 打开开发者工具，获取cookies。
 
 ### 怎么获得TG BOT API？
 
