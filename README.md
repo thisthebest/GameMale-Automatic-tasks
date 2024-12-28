@@ -1,6 +1,6 @@
-# GameMale-Automatic-tasks
+# 已删库 - GameMale-Automatic-tasks
 
-已删库
+
 
 一个0基础小白使用 ChatGPT 写出来的关于 GameMale 论坛自动签到的脚本，欢迎大佬随时修改优化这一坨屎山代码。
 
